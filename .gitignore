@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+
+# Documents (your study notes, not needed on GitHub)
+logs/
+images/
+*.pdf
+*.docx
