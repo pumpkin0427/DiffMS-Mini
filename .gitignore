@@ -8,6 +8,6 @@ __pycache__/
 
 # Documents (your study notes, not needed on GitHub)
 
-images/
+
 *.pdf
 *.docx
