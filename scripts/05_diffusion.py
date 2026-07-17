@@ -38,4 +38,4 @@ def q_sample(A0,t,alpha_bars):
 ###
 def sample_timesteps(batch_size, T):
     #随机选取一个0-499的数进行加噪
-    return np.random.randint(0, T, size=batch_size)
+    return np.random.randint(0, T, size=batch_size);
