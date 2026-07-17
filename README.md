@@ -6,7 +6,7 @@ DiffMS 论文（ICML 2025）的小规模复现项目。
 
 ## 项目结构
 
-`
+```
 DiffMS-Mini/
 ├── scripts/
 │   ├── 04_graph_utils.py     # 分子图编解码（build_adj / adj_to_mol）
@@ -18,7 +18,7 @@ DiffMS-Mini/
 ├── logs/                     # 每日学习日志
 ├── images/                   # 生成图片和训练曲线
 └── README.md
-`
+```
 
 ## 已实现
 
@@ -31,9 +31,9 @@ DiffMS-Mini/
 
 ## 环境配置
 
-`ash
+```ash
 pip install -r requirements.txt
-`
+```
 
 ## 论文来源
 
