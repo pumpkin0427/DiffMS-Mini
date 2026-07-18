@@ -31,7 +31,7 @@ DiffMS-Mini/
 
 ## 环境配置
 
-```ash
+```bash
 pip install -r requirements.txt
 ```
 
