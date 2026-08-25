@@ -1,0 +1,33 @@
+Validity: 1.0000
+Tanimoto: 0.0015
+有效分子数: 50/50
+Epoch 1: loss=1.8931
+Epoch 2: loss=0.4080
+Epoch 3: loss=0.4013
+Epoch 4: loss=0.3956
+Epoch 5: loss=0.3932
+Epoch 6: loss=0.3930
+Epoch 7: loss=0.3921
+Epoch 8: loss=0.3909
+Epoch 9: loss=0.3905
+Epoch 10: loss=0.3887
+Epoch 11: loss=0.3891
+Epoch 12: loss=0.3867
+Epoch 13: loss=0.3863
+Epoch 14: loss=0.3854
+Epoch 15: loss=0.3868
+Epoch 16: loss=0.3857
+Epoch 17: loss=0.3859
+Epoch 18: loss=0.3864
+Epoch 19: loss=0.3856
+Epoch 20: loss=0.3860
+Epoch 21: loss=0.3857
+Epoch 22: loss=0.3860
+Epoch 23: loss=0.3861
+Epoch 24: loss=0.3847
+Epoch 25: loss=0.3859
+Epoch 26: loss=0.3882
+Epoch 27: loss=0.3858
+Epoch 28: loss=0.3847
+Epoch 29: loss=0.3850
+Epoch 30: loss=0.3842
